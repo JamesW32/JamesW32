@@ -7,7 +7,7 @@
 ### Discord: JamesW32#6903
 ### Twitter: @JamzyWood
 ### Email: Jameswood78000@hotmail.com
-### - ⚡ Im Currently Learning
+### - ⚡ Im Currently Learning:
 ### -Python 3 🐍
 ### -C++ ©
 ### -Javascript ☕

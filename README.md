@@ -1,9 +1,9 @@
 ### My Name is James! 
 ### Welcome to my Github 🤖
  -----------------------------------------------------------
-### - 📖 Alumni from Abertay University's Ethical Hacking Degree
+### - 📖 Ethical Hacking Alumni
 ### - 💻 Blue Team Professional
-### - 🎮 Indie Game dev working with GameMaker
+### - 🎮 Indie Game Dev working with GameMaker
  -----------------------------------------------------------
 ### - Current Projects
 -Developing a video game

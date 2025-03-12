@@ -6,4 +6,5 @@
 ### - 🎮 Indie Game Dev working with GameMaker
  -----------------------------------------------------------
 ### - Current Projects
--Developing a video game
+- Developing a video game
+- Learning Python
